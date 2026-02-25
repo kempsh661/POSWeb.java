@@ -47,14 +47,13 @@ CREATE TABLE productos (
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/tu-repositorio.git
+git clone [https://github.com/tuusuario/tu-repositorio.git](https://github.com/kempsh661/POSWeb.java.git
+)
 
 Configurar credenciales en Conexion.java.
 
 Ejecutar en Apache Tomcat.
 
-🌐 Acceso
-http://localhost:8080/NombreProyecto/ProductoServlet?accion=listar
 🏗 Arquitectura
 
 Modelo: Producto, ProductoDAO, Conexion
