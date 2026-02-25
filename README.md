@@ -47,8 +47,7 @@ CREATE TABLE productos (
 
 Clonar el repositorio:
 
-git clone [https://github.com/tuusuario/tu-repositorio.git](https://github.com/kempsh661/POSWeb.java.git
-)
+git clone https://github.com/kempsh661/POSWeb.java.git
 
 Configurar credenciales en Conexion.java.
 
